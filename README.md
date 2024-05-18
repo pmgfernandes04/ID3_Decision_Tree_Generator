@@ -22,7 +22,7 @@ Run (within the correct directory) the following command-line (linux):
 
 <details><summary>tree</summary>
 <p>
-    
+```txt
 {
       'Pat': {
             'Some': 'Yes',
@@ -47,5 +47,6 @@ Run (within the correct directory) the following command-line (linux):
             'None': 'No'
       }
 }
+    ```
 <p>
 </details>
